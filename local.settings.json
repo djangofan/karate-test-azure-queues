@@ -1,0 +1,19 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "APIM_SUBSCRIPTION_KEY": "___________",
+    "TOPIC_0_NAME": "topic0",
+    "TOPIC_0_SUBSCRIPTION_NAME_IN": "test-0-incoming",
+    "TOPIC_0_SUBSCRIPTION_NAME_OUT": "test-0-outgoing",
+    "TOPIC_1_NAME": "topic1",
+    "TOPIC_1_SUBSCRIPTION_NAME_IN": "test-1-incoming",
+    "TOPIC_1_SUBSCRIPTION_NME_OUT": "test-1-outgoing",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "GATEWAY_URL": "https://playground-api.pas.test.com"
+  },
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "http://localhost:7071"
+  }
+}
